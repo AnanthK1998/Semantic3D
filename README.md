@@ -1,7 +1,7 @@
 # Mesh R-CNN with Sheared Decoder
 ### Advanced Deep Learning for Computer Vision - Visual Computing
 
-We propose a novel non-learnable Shearing Layer, that can convert 2D feature maps to 3D feature maps in a computationally efficient manner, without the need for backprojection using depth information. We have implemented the same on top of the <a href="https://github.com/facebookresearch/meshrcnn" target="_blank">Mesh-RCNN code base.</a>
+We propose a novel non-learnable Shearing Layer, that can lift 2D feature maps to 3D feature maps in a computationally efficient manner, without the need for backprojection. We have implemented the same on top of the <a href="https://github.com/facebookresearch/meshrcnn" target="_blank">Mesh-RCNN code base.</a>
 
 
 <img src="datasets/royaloak.jpg" alt="Unseen Image" title="Unseen Image">
